@@ -411,12 +411,12 @@
   resolved "https://registry.yarnpkg.com/@clr/ui/-/ui-2.0.2.tgz#2f011f68f4f21970c18a4faca7c46870bef43703"
   integrity sha512-GJcw7A8lWLGj07sXKmNrfulr40jU7ohFRpcyPvuRZyDjXJ/DsIx/qAf1H5stFYUcaJNddJVZ2+KnZP8BPMhi/A==
 
-"@ctrl/ngx-codemirror@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@ctrl/ngx-codemirror/-/ngx-codemirror-2.0.0.tgz#a1d1f7a1e02708a73f7215a3659d77c6008adb61"
-  integrity sha512-CB2xRraDCfONj4JJpLrAzWBV3mCAKY7WBPB9jXinDtg6RxcckP1O3UjkfE1xzU7/jAlj09ZzPA55ezCyLaNZVg==
+"@ctrl/ngx-codemirror@^2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@ctrl/ngx-codemirror/-/ngx-codemirror-2.2.0.tgz#ef411e93063e3bf8555adc81c6e5ed154c67f54c"
+  integrity sha512-jyO1w+JJEj7be/X4o9nzi51v2o/UcPza7ve/YOsbKTFLF6J1Ngbn9F1VqPeouuHHZlCWjXiI7VLciVmat4nTxw==
   dependencies:
-    "@types/codemirror" "0.0.72"
+    "@types/codemirror" "^0.0.76"
     tslib "^1.9.0"
 
 "@evocateur/libnpmaccess@^3.1.2":
@@ -1370,10 +1370,10 @@
   dependencies:
     "@types/filesystem" "*"
 
-"@types/codemirror@0.0.72":
-  version "0.0.72"
-  resolved "https://registry.yarnpkg.com/@types/codemirror/-/codemirror-0.0.72.tgz#75e95e3b488717605d2591cd80c4d2ed88ff276e"
-  integrity sha512-dKtEP139Jxdrog/6zW8akX3LdhJ3V8NjYNCpIHdBVVo6ZiYpShPamtQoGpVhzrUzTOu5A6NlozOSiZipCEVCow==
+"@types/codemirror@^0.0.76":
+  version "0.0.76"
+  resolved "https://registry.yarnpkg.com/@types/codemirror/-/codemirror-0.0.76.tgz#c52719878056a216bc05889b46a41d4eb1434423"
+  integrity sha512-k/hpUb+Ebyn9z63qM8IbsRiW0eYHZ+pi/1e2reGzBKAZJzkjWmNTXXqLLiNv5d9ekyxkajxRBr5Hu2WZq/nokw==
   dependencies:
     "@types/tern" "*"
 
@@ -8670,10 +8670,10 @@ next-tick@1, next-tick@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
 
-ng-zorro-antd@8.4.0:
-  version "8.4.0"
-  resolved "https://registry.yarnpkg.com/ng-zorro-antd/-/ng-zorro-antd-8.4.0.tgz#633372fde8b62e523ecdb41b83ed2241d6878d7b"
-  integrity sha512-WE7HOxnMLRAImdfcnSuEk1QhFx6xcqjSl5YIEFMh7LnvwNjOw+YUYiQFpEecF6RUi1GEJlP8A9efUGzSgVGAMw==
+ng-zorro-antd@8.3.1:
+  version "8.3.1"
+  resolved "https://registry.yarnpkg.com/ng-zorro-antd/-/ng-zorro-antd-8.3.1.tgz#191a78565bb72e8372d837fd542d0a3914dba67a"
+  integrity sha512-a5Oyo4nUBjl4qtVFuS9FHXZp1yak+cN5t6zOr0Fe7QSWX+4VqmYk04JG0/gcdGy5NLKOqAVBVTqTGMGXPflUVw==
   dependencies:
     "@angular/cdk" "^8.0.0"
     "@ant-design/icons-angular" "^8.0.2"
